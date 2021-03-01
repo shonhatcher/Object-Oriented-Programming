@@ -17,7 +17,7 @@ class Employee {
     }
     
     getRole(x) {
-        let x = Employee;
+        var x = "Employee";
         return x;
     }
 }
